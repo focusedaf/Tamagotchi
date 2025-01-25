@@ -39,3 +39,9 @@ Message Display:
 - Fetch pet stats and updates from the backend.
 - Send user actions (e.g., feeding) to the backend.
 - Display AI-generated responses in a chat-like interface. 
+
+
+# INSPO
+https://github.com/Dksie09/RetroUI
+https://github.com/philingus/ProjectPaemon/tree/main
+https://project-paemon-31jm.vercel.app/trainer-name
